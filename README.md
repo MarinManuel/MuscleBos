@@ -1,6 +1,8 @@
 # MuscleBos
 
-This code corresponds to the peer-reviewed paper: [Rapid High-Throughput Analysis of Bovine Skeletal Muscle Fiber Morphology via Automated Fluorescent Microscopy and MuscleBos Software](https://iastatedigitalpress.com) published in *Meat and Muscle Biology*.
+This code corresponds to the peer-reviewed paper: [Rapid High-Throughput Analysis of Bovine Skeletal Muscle Fiber Morphology via Automated Fluorescent Microscopy and MuscleBos Software](https://www.iastatedigitalpress.com/mmb/article/id/22637/) published in *Meat and Muscle Biology*.
+
+Full Article URL: https://www.iastatedigitalpress.com/mmb/article/id/22637/
 
 ## Version History
 
