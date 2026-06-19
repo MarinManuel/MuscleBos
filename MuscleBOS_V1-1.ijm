@@ -1285,6 +1285,7 @@ for (ik=0; ik<list.length; ik=ik+NbChannels) {
 		{
 			filesearch=ROIDir+listdone[j];
 			if (filesearch == ROIFiberFile) {
+				roiManager("reset");
 				run("Add to Manager");
 				roiManager("Open", ROIFiberFile);
 				roiManager("Show None");
